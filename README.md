@@ -27,10 +27,9 @@ direction TB
 	<<Class>> Iphone
 	<<Interface>> ReprodutorMusical
 	<<Interface>> AparelhoTelefonico
+	<<Interface>> NavegadorInternet
 
-	note for Iphone "This is a sample note"
-	note "This is a sample note"
-
+	
     Iphone <|-- ReprodutorMusical
     Iphone <|-- AparelhoTelefonico
     Iphone <|-- NavegadorInternet
