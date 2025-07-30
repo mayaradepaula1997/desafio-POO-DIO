@@ -1,6 +1,6 @@
-# desafio-POO-DIO
+<img width="1842" height="795" alt="image" src="https://github.com/user-attachments/assets/8bf98bb7-7c7b-4f64-bee6-d2734155b0cc" /># desafio-POO-DIO
 
-'''mermaid
+ ```mermaid
 classDiagram
 direction TB
     class Iphone {
