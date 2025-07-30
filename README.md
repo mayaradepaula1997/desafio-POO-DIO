@@ -1,5 +1,6 @@
 # desafio-POO-DIO
 
+'''mermaid
 classDiagram
 direction TB
     class Iphone {
